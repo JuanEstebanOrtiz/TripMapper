@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9861975640",
+    "project_id": "trip-mapper-1c726",
+    "storage_bucket": "trip-mapper-1c726.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9861975640:android:d4b6a5ccbce1c8c47f842d",
+        "android_client_info": {
+          "package_name": "com.example.pruebauno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9861975640-q2avp4okidjc617vn89u1r5aka4omf3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqF_T1jxOqGpHcfl0xyfv0BO8OPabzXGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9861975640-q2avp4okidjc617vn89u1r5aka4omf3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
