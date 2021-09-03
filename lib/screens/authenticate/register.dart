@@ -30,6 +30,7 @@ class _RegisterState extends State<Register> {
         elevation: 0.0,
         title: Text('Sign up to Trip Mapper'),
         actions: <Widget>[
+          // ignore: deprecated_member_use
           FlatButton.icon(
             icon: Icon(Icons.person, color: Colors.white),
             label: Text('Sign In', style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),),
@@ -171,6 +172,7 @@ class _RegisterState extends State<Register> {
                       child: Center(
                         child: Column(
                           children: <Widget>[
+                            // ignore: deprecated_member_use
                             RaisedButton(
                               child: Center(
                                 child: Text('Register', style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),),

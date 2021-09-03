@@ -32,6 +32,7 @@ class _SingInState extends State<SignIn> {
         elevation: 0.0,
         title: Text('Sign in to Trip Mapper'),
         actions: <Widget>[
+          // ignore: deprecated_member_use
           FlatButton.icon(
             icon: Icon(Icons.person, color: Colors.white),
             label: Text('Register', style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),),
@@ -172,6 +173,7 @@ class _SingInState extends State<SignIn> {
                       child: Center(
                         child: Column(
                           children: <Widget>[
+                            // ignore: deprecated_member_use
                             RaisedButton(
                               child: Center(
                                 child: Text('Sign in', style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),),
